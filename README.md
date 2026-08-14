@@ -1,79 +1,67 @@
-# 🐙 GitHub Blueprint: Zero to Hero
-
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Platform-181717?logo=github)
-![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-181717?logo=github)
-![Beginners](https://img.shields.io/badge/Made%20for-Beginners-0a0e1a)
-![License](https://img.shields.io/badge/License-MIT-blue)
-
-**Built by [Nkechi Anna Ahanonye](https://www.linkedin.com/in/nkechiahanonye) — Cloud & DevOps Engineer | I turn manual, 3 AM-breaking deployments into 1-min automated pipelines with AWS + Ansible + Terraform | Featured: 15-Module Ansible Lab with real terminal**
-
-For DevOps students who need relatable, hands-on examples — not textbook theory.
-
----
+# GitHub Blueprint — Zero to Hero (Global Edition)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-brightgreen)
+![Beginners](https://img.shields.io/badge/Level-Zero%20to%20Hero-blue)
 
 > **From `git init` to CI/CD pipelines — one copy-paste lab at a time.**
 
-A static, beginner-to-hero Git and GitHub learning platform designed for GitHub Pages. Covers version control fundamentals, branching, pull requests, merge conflicts, GitHub Actions CI/CD, and GitHub Pages deployment.
+Built by Nkechi Anna Ahanonye — Cloud & DevOps Engineer.  
+Live: https://nkydigitech.github.io/github-blueprint/
+
+## Who Is This For?
+Global beginners — students, career switchers, non-technical founders, DevOps newbies. Zero prior Git needed. No Nigerian-only examples — analogies anyone in Brazil, India, Germany, Kenya or USA gets.
+
+## The Global Analogy System (Easy Grab)
+- **Version Control = Diary with history** vs loose papers you lose
+- **Git = Engine, GitHub = Garage** where you park & share the car safely
+- **Repository = Locker in the cloud**
+- **Commit = Video game save point**
+- **Branch = Parallel universe / draft copy**
+- **Merge Conflict = Two people editing same homework line**
+- **Pull Request = Asking teacher to check before adding to textbook**
+- **GitHub Actions = Robot assistant that auto-checks your work**
 
 ## What's Inside
+- **15 Chapters** — What is Version Control? → Best Practices
+- **10 Hands-on Labs** with copy-paste commands + expected output
+- **Capstone** — Build Portfolio + CI/CD Pipeline + Deploy to Pages
+- **Progress Tracking** — localStorage
+- **Dark/Light Theme**
+- **Pure HTML/CSS/JS** — No build system, GitHub Pages ready
 
-- 15 chapters from "What is Version Control?" to "Best Practices"
-- 10 hands-on labs with copy-paste commands and expected output
-- Capstone project: Build a Complete Project with CI/CD Pipeline
-- Nigerian-context analogies throughout
-- Browser localStorage progress tracking
-- Responsive design with dark/light theme toggle
-- No build system — pure HTML/CSS/JS
+## Curriculum
 
-## Live Site
+### Phase 1: Foundations
+1. What is Version Control? — Diary vs Loose Papers
+2. Git vs GitHub — Engine vs Garage
+3. Setup — Your ID Card (Account, Git config, SSH)
 
-Coming soon: https://nkydigitech.github.io/github-blueprint/
+### Phase 2: Core Skills
+4. Your First Repository — Empty Locker to Cloud
+5. Commits — Save Points
+6. History — Time Machine (log, restore, .gitignore)
+7. Branches — Parallel Universes
+8. Merging — Combining Drafts
+
+### Phase 3: Collaboration
+9. Merge Conflicts — Solving the Clash
+10. Remotes — Push & Pull (Sending Letters)
+11. Pull Requests — Teacher Review Gate
+12. Issues & Projects — Team Todo List
+
+### Phase 4: Superpowers
+13. GitHub Actions — Robot Assistant (CI/CD)
+14. GitHub Pages — Free Publishing House
+15. Best Practices & Capstone Roadmap
+
+## Labs
+Lab 1: Init & First Commit | Lab 2: Time Travel | Lab 3: Branching Playground | Lab 4: Merge | Lab 5: Fix Conflict | Lab 6: Push to GitHub | Lab 7: First PR | Lab 8: Issue to PR | Lab 9: Hello Actions | Lab 10: Deploy Pages | Capstone: Portfolio CI/CD
+
+## How to Use
+Open index.html or enable GitHub Pages from main branch root.
 
 ## Blueprint Series
+Part of 17 blueprints — Ansible, Terraform, AWS, Azure, K8s, Linux, Docker, GitHub, Bash, SDLC, CI/CD, Jenkins, Azure DevOps, Prometheus, Grafana, OpenShift, Cybersecurity.
 
-| # | Blueprint | Focus | Status |
-|---|-----------|-------|--------|
-| 1 | [ansible-guide](https://github.com/nkydigitech/ansible-guide) | Ansible Automation | ✅ Live |
-| 2 | [terraform-blueprint](https://github.com/nkydigitech/terraform-blueprint) | Infrastructure as Code | ✅ Live |
-| 3 | [aws-blueprint](https://github.com/nkydigitech/aws-blueprint) | Amazon Web Services | ✅ Live |
-| 4 | [azure-blueprint](https://github.com/nkydigitech/azure-blueprint) | Microsoft Azure | ✅ Live |
-| 5 | [kubernetes-blueprint](https://github.com/nkydigitech/kubernetes-blueprint) | Container Orchestration | ✅ Live |
-| 6 | [linux-blueprint](https://github.com/nkydigitech/linux-blueprint) | Linux Command Line | ✅ Live |
-| 7 | github-blueprint | Git & GitHub | 🚧 Coming Soon |
-| 8 | [docker-blueprint](https://github.com/nkydigitech/docker-blueprint) | Containerization | 🚧 Coming Soon |
-
-## Part of the Blueprint Series
-
-| # | Blueprint | Category | Status |
-|---|-----------|----------|--------|
-| 1 | [ansible-guide](https://github.com/nkydigitech/ansible-guide) | Automation | ✅ Live |
-| 2 | [terraform-blueprint](https://github.com/nkydigitech/terraform-blueprint) | IaC | ✅ Live |
-| 3 | [aws-blueprint](https://github.com/nkydigitech/aws-blueprint) | Cloud | ✅ Live |
-| 4 | [azure-blueprint](https://github.com/nkydigitech/azure-blueprint) | Cloud | ✅ Live |
-| 5 | [kubernetes-blueprint](https://github.com/nkydigitech/kubernetes-blueprint) | Orchestration | ✅ Live |
-| 6 | [linux-blueprint](https://github.com/nkydigitech/linux-blueprint) | Fundamentals | ✅ Live |
-| 7 | **github-blueprint** | Version Control | 🚧 Coming Soon |
-| 8 | [docker-blueprint](https://github.com/nkydigitech/docker-blueprint) | Containers | ✅ Live |
-| 9 | [bash-scripting-blueprint](https://github.com/nkydigitech/bash-scripting-blueprint) | Scripting | 🚧 Coming Soon |
-| 10 | [sdlc-blueprint](https://github.com/nkydigitech/sdlc-blueprint) | Methodology | 🚧 Coming Soon |
-| 11 | [cicd-blueprint](https://github.com/nkydigitech/cicd-blueprint) | CI/CD | 🚧 Coming Soon |
-| 12 | [jenkins-blueprint](https://github.com/nkydigitech/jenkins-blueprint) | CI/CD | 🚧 Coming Soon |
-| 13 | [azure-devops-blueprint](https://github.com/nkydigitech/azure-devops-blueprint) | DevOps Platform | 🚧 Coming Soon |
-| 14 | [prometheus-blueprint](https://github.com/nkydigitech/prometheus-blueprint) | Monitoring | 🚧 Coming Soon |
-| 15 | [grafana-blueprint](https://github.com/nkydigitech/grafana-blueprint) | Visualization | 🚧 Coming Soon |
-| 16 | [openshift-blueprint](https://github.com/nkydigitech/openshift-blueprint) | Enterprise K8s | 🚧 Coming Soon |
-| 17 | [cybersecurity-blueprint](https://github.com/nkydigitech/cybersecurity-blueprint) | DevSecOps | 🚧 Coming Soon |
-
-## Connect
-
-- **LinkedIn:** [Nkechi Ahanonye](https://www.linkedin.com/in/nkechiahanonye)
-- **X (Twitter):** [@NAhanonye](https://www.x.com/NAhanonye)
-- **Facebook:** [NkyDigitech](https://web.facebook.com/nkydigitech)
-- **Instagram:** [@nahanonye](https://www.instagram.com/nahanonye/)
-- **TikTok:** [@nkechiahanonye](https://www.tiktok.com/@nkechiahanonye)
-- **Portfolio:** [nkydigitech.github.io/nky-portfolio](https://nkydigitech.github.io/nky-portfolio/)
-
----
-
-*Built with ❤️ for the DevOps community. Especially for African engineers who deserve accessible, relatable learning resources.*
+Built with ❤️ for global DevOps community.
