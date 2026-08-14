@@ -1,4 +1,7 @@
 # GitHub Blueprint — Zero to Hero (Global Edition)
+
+Cloud & DevOps Engineer | I turn manual, 3 AM-breaking deployments into 1-min automated pipelines with AWS + Ansible + Terraform | Featured: 15-Module Ansible Lab with real terminal
+
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 ![Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-brightgreen)
@@ -65,3 +68,8 @@ Open index.html or enable GitHub Pages from main branch root.
 Part of 17 blueprints — Ansible, Terraform, AWS, Azure, K8s, Linux, Docker, GitHub, Bash, SDLC, CI/CD, Jenkins, Azure DevOps, Prometheus, Grafana, OpenShift, Cybersecurity.
 
 Built with ❤️ for global DevOps community.
+
+
+## Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/nkechiahanonye
